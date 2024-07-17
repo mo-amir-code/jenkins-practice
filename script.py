@@ -1,1 +1,2 @@
-print("This is version 1")
+print("Hello this is me Alpha")
+print("Script is running smoothly")
